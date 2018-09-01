@@ -12,9 +12,9 @@ to provide us with prizes and offer discounts to our members:
 ![Sponsor Logos](../images/sponsors.png)
 
   * [Atlassian] - Software Development Company based in Sydney
-  * [Altronics] — Build It Yourself Electronics Centre
-  * [Tactics] — Fantasy & Wargaming Specialists
-  * [Quality Comics] — Comic Books, Posters, and Apparel
+  * [Altronics] - Build It Yourself Electronics Centre
+  * [Tactics] - Fantasy & Wargaming Specialists
+  * [Quality Comics] - Comic Books, Posters, and Apparel
 
 Show your membership sticker to the staff at any of these stores, and
 you’ll receive a sweet discount.
@@ -22,11 +22,6 @@ you’ll receive a sweet discount.
 {: .center}
 ![Atlassian Logo](../images/atlas.png)
 
-Last but not least, please welcome [Atlassian] as one of our newest
-sponsors in 2016! Named the [best place to work][best] by Business
-Review Weekly in 2015, Atlassian has hired nine of our graduates this
-year _alone_, and we’re looking forward to what will be an exciting
-opportunity.
 
 [Altronics]: http://www.altronics.com.au/
 [Tactics]: http://www.tactics.net.au/
