@@ -24,7 +24,7 @@ voucher from the Guild diary.
 
 [Join us now][join] or contact us for any other enquiries:
 
-  * [club@comssa.org.au][email]
+  * [committee@comssa.org.au][email]
   * [https://www.facebook.com/ComSSACurtin/][facebook]
   * [irc://irc.comssa.org.au/comssa][irc]
   *      ComSSA
